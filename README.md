@@ -6,21 +6,23 @@
     - [x]    Meet Python
     - [x]   Slithering in Strings
     - [x]   Lurking in Lists
-    - []    Lambda Illusions
-    - []    Complexity of Comprehension
-    - []    Fumbling in Functional
-    - []    Caravan of Collections
-    - []    Itertools Kit
-    - []    Drilling the Lists
-    - []    Yin and Yang of Yields
-    - []    Higher Order Thinking
-    - []    Showing Class
-    - []    Picturing the Parsibilities
+    - [ ]    Lambda Illusions
+    - [ ]    Complexity of Comprehension
+    - [ ]    Fumbling in Functional
+    - [ ]    Caravan of Collections
+    - [ ]    Itertools Kit
+    - [ ]    Drilling the Lists
+    - [ ]    Yin and Yang of Yields
+    - [ ]    Higher Order Thinking
+    - [ ]    Showing Class
+    - [ ]    Picturing the Parsibilities
 - [x] The Core: 25/162
     - [x]   Intro Gates
     - [x]   At the Crossorads
     - [x]   Corner of 0s and 1s
-    - []    LoopTunel
+    - [ ]    LoopTunel
 2. CodeLearn
-3. HackerRank
+3. HackerRank:
+    - Rank: 138779
 4. Python
+
