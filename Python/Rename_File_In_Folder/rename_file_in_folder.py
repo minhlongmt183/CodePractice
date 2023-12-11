@@ -22,7 +22,7 @@ def rename_files(folder_path):
 
 def main():
     # Provide the path to the folder containing the files
-    folder_path = '/mnt/e/research/CVE/confluence/atlassian-confluence-7.19.16/atlassian-confluence-7.19.16/confluence/WEB-INF/lib'
+    folder_path = '/mnt/d/ShareFolder/confluence/atlassian-confluence-7.19.17/atlassian-confluence-7.19.17/confluence/WEB-INF/atlassian-bundled-plugins'
     rename_files(folder_path)
 
 if __name__ == "__main__":
